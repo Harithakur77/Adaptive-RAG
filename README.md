@@ -560,8 +560,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Hari Mohan**
-- GitHub: [Hari Mohan](https://github.com/Harithakur77)
+**Hari Mohan Singh**
+- GitHub: [Hari Mohan Singh](https://github.com/Harithakur77)
 - Project: [Adaptive RAG](https://github.com/Harithakur77/Adaptive-RAG)
 
 ---
